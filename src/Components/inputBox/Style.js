@@ -7,7 +7,7 @@ export const Label = styled.label`
 
 export const InputWrapper = styled.div`
   width: 80%;
-  margin: 10px;
+  margin: 15px;
 `;
 
 export const Input = styled.input`
