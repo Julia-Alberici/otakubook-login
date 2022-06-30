@@ -14,8 +14,12 @@ export const Wrapper = styled.section`
 
 export const WrapperLogin = styled.div`
   border: 1px solid #989797;
-  margin: 30% auto;
+  margin: 20% auto;
   width: 20em;
+
+  @media (min-width: 800px) {
+    margin: 30% auto;
+  }
 `;
 
 export const SectionLogin = styled.section`
