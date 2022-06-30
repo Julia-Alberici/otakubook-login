@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-success"/>
 </p>
 
-![Site screenshot mobile](./readme-img/print-mobile.jpg)
 ![Site screenshot desktop](./readme-img/print-desktop.jpg)
+![Site screenshot mobile](./readme-img/print-mobile.jpg)
 
 ## Project Description
 
