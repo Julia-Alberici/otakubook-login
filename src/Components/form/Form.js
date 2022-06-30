@@ -6,8 +6,8 @@ export function Form() {
   return (
     <form>
       <S.FormWrapper>
-        <InputBox Children="Email:" type="email" />
-        <InputBox Children="Password:" type="password" />
+        <InputBox children="Email:" type="email" />
+        <InputBox children="Password:" type="password" />
         <Button />
       </S.FormWrapper>
     </form>
